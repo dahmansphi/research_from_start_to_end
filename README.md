@@ -22,21 +22,24 @@ If you wish to contribute to the creator of this method and the author, you may 
 
 If you prefer any other way of contribution, please feel free to contact me directly. Thank you
 
-# Introduction
+# The Big Bang of Data Science at a glance
 
-## The BireyselValue Algorithm
-Classification is something that exists in nature in a very mysterious way. In fact, I do believe that 
-our evolution in some way is related to the __principle of classification__. See, we like to classify things,
-sometimes, we use a set of **adjectives** e.g. the good one, the bad one, the far one the close one, etc. 
-Other times, we intend to use a set of **nouns**, i.e. __classifying by group names__, e.g. the A group, 
-the South way, etc. That’s weird itself, as I am trying to introduce the definition of classification, 
-I did classify two ways already, as if **an infinite circle**. Anyway, see here are two ways we classify things, 
-one I called the subjective way of classification using **adjectives**, the second is objective way of classification using **nouns**. These are how society tends to use the principle of classifications using the human language.  
-That has been said, there is this magical tool that uses its own independent language, tends to __dissolve__ this 
-line of difference between **subjectivism**, and **objectivism**, and that is the use of **mathematics**. 
-In mathematics, we tend to convert everything into set of numbers, yet to understand the _behavior_ and the _structure_
-of those numbers, and finally, we just see how things are grouped.  
-To this end, I introduce **a new method of classification** that is **BireyselValue Algorithm**. _Bireysel_ in Turkish language it means **(individual, personal)**. The method is structured based on _three blocks_, 
+## Introduction
+A **product**, as a simple definition, is _the outcome of some kind of input that has been processed and as a result 
+you have the outcome of that as a product_. Well, that sounds academic, however the fact is much deeper than few vocabs. 
+Let me explain what I mean, a student who plans to enroll at a university, doesn’t just pick and here we go! 
+It must have been quite a few steps towards that. Essentially, student might have decided on his/her league, i.e. 
+are they working on rigid establishment institutions, or soft one. Either way, once he/she knows, then next, will 
+be to prepare what is needed. That could be working on certain scores, perhaps on specific project requirements, 
+or maybe financial arrangements, etc. So, the input is what is needed to be enrolled, the process is what student 
+does to orchestrate that, and finally, the outcome is the student enrolment in the class. So, this final status, 
+a university student, is a product. Let's take a second example, someone plans to buy a house, just like the 
+student story, he/she must work out on their budgets, market values, etc., and finally, process all that to make 
+the best choice that fits in, the result, a house owner. This status is a product. Alright, let’s be more technical,
+company X plans to introduce a new digital/physical product. Of course, teamwork starts to collect the information 
+about the product, work on the required raw materials, etc. Then process all of which to outcome that. The result, 
+social media software app, or a new device in the market. You have got the point.   
+. _Bireysel_ in Turkish language it means **(individual, personal)**. The method is structured based on _three blocks_, 
 - [x] the building block, 
 - [x] the training block, 
 - [x] and the prediction block.  

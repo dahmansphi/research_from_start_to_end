@@ -31,20 +31,20 @@ Let me explain what I mean, a student who plans to enroll at a university, doesn
 It must have been quite a few steps towards that. Essentially, student might have decided on his/her league, i.e. 
 are they working on rigid establishment institutions, or soft one. Either way, once he/she knows, then next, will 
 be to prepare what is needed. That could be working on certain scores, perhaps on specific project requirements, 
-or maybe financial arrangements, etc. So, the input is what is needed to be enrolled, the process is what student 
-does to orchestrate that, and finally, the outcome is the student enrolment in the class. So, this final status, 
-a university student, is a product. Let's take a second example, someone plans to buy a house, just like the 
+or maybe financial arrangements, etc. So, **the input** is what is needed to be enrolled, **the process** is what student 
+does to orchestrate that, and finally, **the outcome** is the student enrolment at the university. So, this _eventual  status_, 
+a university student, is **a product**. Let's take a second example, someone plans to buy a house, just like the 
 student story, he/she must work out on their budgets, market values, etc., and finally, process all that to make 
-the best choice that fits in, the result, a house owner. This status is a product. Alright, let’s be more technical,
-company X plans to introduce a new digital/physical product. Of course, teamwork starts to collect the information 
+the best choice that fits in, the result, a house owner. This status is a product. Alright, _let’s be more technical_,
+company *X* plans to introduce a new digital/physical product. Of course, teamwork starts to collect the information 
 about the product, work on the required raw materials, etc. Then process all of which to outcome that. The result, 
-social media software app, or a new device in the market. You have got the point.   
-. _Bireysel_ in Turkish language it means **(individual, personal)**. The method is structured based on _three blocks_, 
-- [x] the building block, 
-- [x] the training block, 
-- [x] and the prediction block.  
+a social media software app, or a new device in the market. You have got the point.   
 
-It basically, relays on **4 characteristics**, I call them _the personal profile_. To learn the details of this method please check out _the official academic publication_ found in the reference.   
+- [x] the input, 
+- [x] the process, 
+- [x] and the output.  
+
+
 
 ## bireyselvalue package __version__1.0
 As scientists we must be **skeptical**. Not in a destructive way but in a constructive way, so to speak. 

@@ -1,4 +1,4 @@
-![the big bang of data science banner.](/book_one/assets/cover_page.jpg)
+![the big bang of data science banner.](/assets/cover_page.jpg)
 # About the Project
 ## Author's Words
 

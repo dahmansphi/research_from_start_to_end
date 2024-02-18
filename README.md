@@ -1,5 +1,7 @@
 ![the big bang of data science banner.](/assets/cover_page.jpg)
 # About the Project
+## Book Cover
+![the big bang of data science banner.](/assets/research_s2e_cover.png)
 ## Author's Words
 
 Welcome to **The Big Bang of Data Science** official documentation. I am Dr. Deniz Dahman 

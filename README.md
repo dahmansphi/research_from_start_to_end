@@ -78,12 +78,13 @@ To this end, **the big bang of data science** is _very carefully crafted materia
 
 `#0969DA What you find here is a mimic of a career university`, from the start to the end. Good Luck.   
 
-![the big bang of data science banner.](/assets/research_s2e_cover.png)
+![the research foundation framework.](/assets/researh_foundation.gif)
+
 
 # Book ONE- Research From the start to the end
 
 ## Book Cover
-![the big bang of data science banner.](/assets/researh_foundation.gif)
+![the research cover book.](/assets/research_s2e_cover.png)
 > [!TIP]
 > The first edition bireyselvalue is tested on several **problematic** datasets. What I mean by problematic is 
 a dataset with **extreme overlapping behaviors** across classes and has **insufficient** classification **accuracy** 

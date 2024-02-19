@@ -72,14 +72,18 @@ Great, so now we have this solution, logically speaking, in the form of a model 
 - [x] Code AI From the Start to the End,  
 
 ## WHAT IS THE COMPETITIVE ADVANTAGE?
-there is only one word can simply . 
+Today’s online educational stores are flooded with immense number of materials covering the contents of each element as presented above. However, most of the time there is **this missing** connection between them, for instance, **on the crucial value importance of research**. See, many would suggest the **claim** that `data is the main input for a prediction model, that’s why it needs first to be cleaned and processed before shipping to the prediction block`. That’s _right in some ways_, and _wrong in other ways_. Let me explain, without data I can make no prediction, that’s right. So, the previous claim then is right. **However**, where the data comes from! The source of _the data is the process of research_. So, if you would have from the very beginning **a wrong research foundation**, then no matter what advanced, and classy tools you have used to clean the data will never make a difference. See, you may, at face value, pre-process and clean the data, and the result would look just fine, then you feed that into the prediction blook, and you do the prediction. But you will always suffer the painful fact of UNEXPECTED results, **wrong prediction**, etc. That happened actually, because of **the wrong foundation of research**.  
 
+To this end, **the big bang of data science** is _very carefully crafted material_ that **addresses this matter** in principle. `It takes you on a journey to build and create your final product/solution based on the right research foundation`. So, essentially, it shows you how to build scientific research framework, then how to work on the right methods of analysis, and finally, how to use that analytical model as an input for the prediction. _In addition_, in this **first addition**, it illustrates a way to turn that product into a digital one, using a GUI for the user to interact with, in the form of a desktop solution.  
 
+`#0969DA What you find here is a mimic of a career university`, from the start to the end. Good Luck.   
+
+![the big bang of data science banner.](/assets/research_s2e_cover.png)
 
 # Book ONE- Research From the start to the end
 
 ## Book Cover
-![the big bang of data science banner.](/assets/research_s2e_cover.png)
+![the big bang of data science banner.](/assets/researh_foundation.gif)
 > [!TIP]
 > The first edition bireyselvalue is tested on several **problematic** datasets. What I mean by problematic is 
 a dataset with **extreme overlapping behaviors** across classes and has **insufficient** classification **accuracy** 

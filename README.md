@@ -44,18 +44,10 @@ a social media software app, or a new device in the market. You have got the poi
 - [x] the process, 
 - [x] and the output.  
 
+![the three principles of a product.](/assets/input_process_output.gif)
 
-
-## bireyselvalue package __version__1.0
-As scientists we must be **skeptical**. Not in a destructive way but in a constructive way, so to speak. 
-So, the best approach to be a constructive scientist is to build your research first in an **abstract way** 
-then in a **concrete way**. To this end, I have proposed the method and its structure, yet, I had to introduce 
-a _concrete_ measure on that proposal, and that is **the purpose of this package**. This package is the _first edition_
-of the BireyselValue Algorithm, official released name **bireyselvalue**. This package will serve as a **testing** tool 
-on the proposed method, of its first edition. In other words, **not yet for a production capacity**, but rather for 
-**research and development** purposes ONLY. The essential finding on accuracy of prediction is _very much promising_. 
-In future releases, enhancement of extra features will be added, and yet to be tested. 
-To this end, you may feel free to follow the set-up instructions as the following sections suggest. 
+## Research
+there is only one word can simply . 
 
 # Installation 
 > [!TIP]

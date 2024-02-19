@@ -86,33 +86,13 @@ To this end, **the big bang of data science** is _very carefully crafted materia
 ## Book Cover
 ![the research cover book.](/assets/research_s2e_cover.png)
 > [!TIP]
-> The first edition bireyselvalue is tested on several **problematic** datasets. What I mean by problematic is 
-a dataset with **extreme overlapping behaviors** across classes and has **insufficient** classification **accuracy** 
-using other classification methods. Those sets have various dimensions that go as high as _13000 observations_ 
-and _36 variables_. I employed the method using a very **basic machine capacity** that today’s industry can offer. 
-To conclude, you **don’t need any advanced hardware capacity** but only basic ones. 
-In addition, you make sure you have Python 3 or above version.
+> You can have full access to the material of this book from the outlet section below. Thank you.
 
-## Install bireyselvalue
-to install the package all what you have to do:
-```
-pip install bireyselvalue
-```
-You should then be able to use the package. You may want to confirm the installation
+## The Content
 
-```
-pip show bireyselvalue
-```
-The result then shall be as:
+This is the first element of **the Big Bang of Data Science**, **`Research from the Start to The End`**.  
 
-```
-Name: bireyselvalue
-Version: 1.0.0
-Summary: TEST ON V.1 of THE BireyselValue Algorithm FOR CLASSIFICATION PROBLEMS
-Home-page: https://github.com/dahmansphi/bireyselvalue_v1
-Author: Dr. Deniz Dahman's
-Author-email: dahmansphi@gmail.com
-```
+I don’t want to stick to that _abstract and direct_ definition from the academic book, on the meaning of research, but from the industrial one. So, I believe **RESEARCH** is the _concertmaster_ with the highest leadership position among all the other parts that are responsible for the outcome of a product. Research is an art that identifies the identity and confirms the destiny of the product. Put simply, _if you have a bad research start_, no matter how well and advanced equipped you are, _I guarantee your product will be a failure_. To this end, the first book is carefully crafted to meet all the requirements to build your product on the right foundation of research method. Here is a quick view of the content of the book. 
 
 ## Employ the bireyselvalue -**Conditions**
 

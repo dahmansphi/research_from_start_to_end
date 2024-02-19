@@ -47,20 +47,23 @@ what you have is the name of **DATA**. And data is meant, _by the law of nature_
 second step. Finally, you are going to outcome a solution, or what I have named as a **PRODUCT**.  
 
 So, the question is now, _what do you really need to know to orchestrate these three steps in order?_ Here is what I believe: 
-> [Research mastery], you must know how to conduct **research** _from the start to the end_. That includes, and is not 
+> [**Research mastery**], you must know how to conduct **research** _from the start to the end_. That includes, and is not 
 limited to, skills of articulating your research question, conducting the research framework, defining space of 
 variables, creating instrument to measure those variables, collecting, storing data which have been measured, 
 and so on. 
  
-> [Analysis mastery], now is time of truth. In this step you start to do **analysis** _from the start to the end_ on 
+> [**Analysis mastery**], now is time of truth. In this step you start to do **analysis** _from the start to the end_ on 
 the data that you have. You find patterns, hidden structures, you tabulate, graph and so on. Finally, you have answers 
 to your research question. That is the output, the product, the solution.  
 
-Here we go! But wait a second, it’s legitimate to think, this solution/product you have just outcome, has two embedded elements (1) PAST, (2) PRESENT. You have these past data, and you did the present process, so what is missing? The obvious answer is the FUTURE. You need future element to be present in the profile of your solution/product.  
+Here we go! But wait a second, it’s legitimate to think, this solution/product you have just outcome, has only two embedded elements (1) **PAST**, (2) **PRESENT**. You have these past data, and you did the present process, so _what is missing?_ The obvious answer is the **FUTURE**. You need future element to be present in the profile of your solution/product.  
 
-Prediction mastery, this is where the future can be present in your solution/product. Prediction is telling you an educated guess about the future. It tells you based on your past and present, what is probole outcome of future. That means, your solution will have a new adjective added to it, that is intelligent, or smart solution/product.  
+> [**Prediction mastery**], this is where the _future_ can be present in your solution/product. Prediction is telling you an educated guess about the future. It tells you based on your _past and present_, what is probole outcome of future. That means, your solution will have a new adjective added to it, that is **intelligent**, or smart solution/product.  
 
-So, now let’s conclude all what we have examined. (1) RESEARCH, (2) ANALYSIS, (3) PREDICTION. Are the real blocks to outcome intelligent solution or product. Great, so now we have this solution, logically speaking, in the form of a model or a framework and what we can do with it. Simply put, we can turn it into a form of a digital or physical product. For instance, we can create a GUI that the user interacts with or maybe a device that the user can use. Now, this is what the BIG BANG OF DATA SCIENCE IS ALL ABOUT.
+So, now let’s conclude all what we have examined. (1) **RESEARCH from the start to the end**, (2) **ANALYSIS from the start to the end** (3) **PREDICTION from the start to the end**. Are the real blocks to outcome intelligent solution or product. 
+`and these are the first three elements of the Big Bang of Data Science, in the form of three books`
+
+Great, so now we have this solution, logically speaking, in the form of a model or a framework and what we can do with it. Simply put, we can turn it into a form of a digital or physical product. For instance, we can create a GUI that the user interacts with or maybe a device that the user can use. Now, this is what the BIG BANG OF DATA SCIENCE IS ALL ABOUT.
 
 
 - [x] the input, 

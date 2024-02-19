@@ -24,7 +24,6 @@ If you prefer any other way of contribution, please feel free to contact me dire
 
 # The Big Bang of Data Science at a glance
 
-## Introduction
 A **product**, as a simple definition, is _the outcome of some kind of input that has been processed and as a result 
 you have the outcome of that as a product_. Well, that sounds academic, however the fact is much deeper than few vocabs. 
 Let me explain what I mean, a student who plans to enroll at a university, doesn’t just pick and here we go! 
@@ -38,13 +37,35 @@ student story, he/she must work out on their budgets, market values, etc., and f
 the best choice that fits in, the result, a house owner. This status is a product. Alright, _let’s be more technical_,
 company *X* plans to introduce a new digital/physical product. Of course, teamwork starts to collect the information 
 about the product, work on the required raw materials, etc. Then process all of which to outcome that. The result, 
-a social media software app, or a new device in the market. You have got the point.   
+a social media software app, or a new device in the market. You have got the point.    
+
+![the three principles of a product.](/assets/input_process_output.gif)
+
+Now if we put it all together and use synonymous vocabularies, we easily can find that, everything starts with NEED, 
+i.e. problem, which is going to be the block to put all what you have as an **INPUT**. Next, you should realize that 
+what you have is the name of **DATA**. And data is meant, _by the law of nature_, to be processed. That is exactly the 
+second step. Finally, you are going to outcome a solution, or what I have named as a **PRODUCT**.  
+
+So, the question is now, _what do you really need to know to orchestrate these three steps in order?_ Here is what I believe: 
+> [Research mastery], you must know how to conduct **research** _from the start to the end_. That includes, and is not 
+limited to, skills of articulating your research question, conducting the research framework, defining space of 
+variables, creating instrument to measure those variables, collecting, storing data which have been measured, 
+and so on. 
+ 
+> [Analysis mastery], now is time of truth. In this step you start to do **analysis** _from the start to the end_ on 
+the data that you have. You find patterns, hidden structures, you tabulate, graph and so on. Finally, you have answers 
+to your research question. That is the output, the product, the solution.  
+
+Here we go! But wait a second, it’s legitimate to think, this solution/product you have just outcome, has two embedded elements (1) PAST, (2) PRESENT. You have these past data, and you did the present process, so what is missing? The obvious answer is the FUTURE. You need future element to be present in the profile of your solution/product.  
+
+Prediction mastery, this is where the future can be present in your solution/product. Prediction is telling you an educated guess about the future. It tells you based on your past and present, what is probole outcome of future. That means, your solution will have a new adjective added to it, that is intelligent, or smart solution/product.  
+
+So, now let’s conclude all what we have examined. (1) RESEARCH, (2) ANALYSIS, (3) PREDICTION. Are the real blocks to outcome intelligent solution or product. Great, so now we have this solution, logically speaking, in the form of a model or a framework and what we can do with it. Simply put, we can turn it into a form of a digital or physical product. For instance, we can create a GUI that the user interacts with or maybe a device that the user can use. Now, this is what the BIG BANG OF DATA SCIENCE IS ALL ABOUT.
+
 
 - [x] the input, 
 - [x] the process, 
 - [x] and the output.  
-
-![the three principles of a product.](/assets/input_process_output.gif)
 
 ## Research
 there is only one word can simply . 

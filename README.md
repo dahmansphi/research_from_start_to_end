@@ -114,9 +114,72 @@ I don’t want to stick to that _abstract and direct_ definition from the academ
 
 4. [✓] Conclusion 
 
+### Research Topics & Literature Review  
+
+1. [✓] What is the research problem?  
+
+2. [✓] Conduction the Literature Review  
+
+3. [✓] Reviewing & Writing The sources of Literature  
+
+4. [✓] Conclusion 
+
+### LAB-SECTION –01 
+
+1. [✓]The story  
+
+2. [✓] The consultancy  
+
+3. [✓] Scientific implementation 
+
+### Framework & Research Design 
+
+1. [✓] Philosophy of theory  
+
+2. [✓] Philosophy of framework  
+
+3. [✓] Research technical implementation  
+
+4. [✓] Conclusion 
+
+### Execution of The Research Project 
+
+1. [✓] The Philosophy of Measurement  
+
+2. [✓] Philosophy of Subject  
+
+3. [✓] Research Data  
+
+4. [✓] Writing Formal Research  
+
+5. [✓] Conclusion 
+
+### LAB-Section –02 
+
+1. [✓] Induct or deduct the research  
+
+2. [✓] What is in the literature review  
+
+3. [✓] Framework implementation  
+
+4. [✓] Articulate research question & hypothesis  
+
+5. [✓] The research design  
+
+6. [✓] Building the research instrument  
+
+7. [✓] Research implementation 
 
 
-# Reference
+## Who is this book for?
 
-please follow up on the project page to find the academic published paper on the method
-[bireyselvalue](https://github.com/dahmansphi/bireyselvalue_v1) project. 
+This book is for anyone, regardless of the educational background, with the interest in building, creating and producing a professional product that has a vision of the future. You don’t have to have specific skill in any way, but extreme enthusiasm to learn how to make the right decision. So, it is meant for an audience of: (1) students, under or postgraduate. (2) scholars, (3) researchers, (4) scientists, (5) executives, (6) managers, (7) professionals, (8) or laypersons. 
+
+
+# Outlets
+
+you can have access to the recorded lessons of this book from these outlets:
+1. [outlet_1](). 
+
+# The digital copy 
+you can have access to the ppt digital copy in pdf format from [outlet_1](/assets/Research_S2E_Final.pdf) 

@@ -182,4 +182,4 @@ you can have access to the recorded lessons of this book from these outlets:
 1. [outlet_1](). 
 
 # The digital copy 
-you can have access to the ppt digital copy in pdf format from [outlet_1](/assets/Research_S2E_Final.pdf) 
+you can have access to the ppt digital copy in pdf format from [digital ppt book](/assets/Research_S2E_Final.pdf) 

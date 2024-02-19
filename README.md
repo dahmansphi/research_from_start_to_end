@@ -179,9 +179,9 @@ This book is for anyone, regardless of the educational background, with the inte
 
 # Book competitive advantage
 
-> [!IMPORTANT] In this book you will find **a few outlines** that deliver competitive advantages.  
-
-> The first three units present an **abstract/academic** presentation of research, then in _chapter four_ you have a **concrete implementation** in the form of **lab-discussion**. Where the lab is a real-life project. So, you are going to implement what you have learnt in theory. 
+> [!IMPORTANT] 
+> In this book you will find **a few outlines** that deliver competitive advantages.  
+The first three units present an **abstract/academic** presentation of research, then in _chapter four_ you have a **concrete implementation** in the form of **lab-discussion**. Where the lab is a real-life project. So, you are going to implement what you have learnt in theory. 
 
 > In **chapter six**, you are going to learn one of **the most important skills** that many are unable to do, and that is **how to build a research instrument**. So, you are going to see the steps on creating your own research instrument _to measure the variables of the research features_. As an outcome, you will no longer have to rely on **copy-paste** surveys and similar tools to collect data for the project.  
 

@@ -1,9 +1,6 @@
 ![the big bang of data science banner.](/assets/cover_page.jpg)
 # About the Project
-## Book Cover
-![the big bang of data science banner.](/assets/research_s2e_cover.png)
 ## Author's Words
-
 Welcome to **The Big Bang of Data Science** official documentation. I am Dr. Deniz Dahman 
 the creator of the **BireyselValue algorithm** and the author of this digital book. In the following section you  
 will have a brief introduction on the principal idea of the Big Bang of Data Science.  
@@ -22,8 +19,9 @@ If you wish to contribute to the creator of this method and the author, you may 
 
 If you prefer any other way of contribution, please feel free to contact me directly. Thank you
 
-# The Big Bang of Data Science at a glance
+# The Big Bang of Data Science first edition at a glance
 
+## the four elements
 A **product**, as a simple definition, is _the outcome of some kind of input that has been processed and as a result 
 you have the outcome of that as a product_. Well, that sounds academic, however the fact is much deeper than few vocabs. 
 Let me explain what I mean, a student who plans to enroll at a university, doesn’t just pick and here we go! 
@@ -63,17 +61,24 @@ Here we go! But wait a second, it’s legitimate to think, this solution/product
 So, now let’s conclude all what we have examined. (1) **RESEARCH from the start to the end**, (2) **ANALYSIS from the start to the end** (3) **PREDICTION from the start to the end**. Are the real blocks to outcome intelligent solution or product. 
 **`and these are the first three elements of the Big Bang of Data Science, in the form of three books`**
 
-Great, so now we have this solution, logically speaking, in the form of a model or a framework and what we can do with it. Simply put, we can turn it into a form of a digital or physical product. For instance, we can create a GUI that the user interacts with or maybe a device that the user can use. Now, this is what the BIG BANG OF DATA SCIENCE IS ALL ABOUT.
+Great, so now we have this solution, logically speaking, in the form of a model or a framework and what we can do with it. Simply put, we can **turn it into** a form of **a digital or physical product**. For instance, we can create a **GUI** that the user can _interacts_ with or maybe **a device** that the user can _use_. Now, this is **`the fourth element of the BIG BANG OF DATA SCIENCE`**, in the form of book, (4) **CODE AI from the start to the end**. 
+
+**``So, here I introduce the first edition of the Big Bang of Data Science. Which includes four books' elements as below:``**
 
 
 - [x] the input, 
 - [x] the process, 
 - [x] and the output.  
 
-## Research
+## WHAT IS THE COMPETITIVE ADVANTAGE?
 there is only one word can simply . 
 
-# Installation 
+
+
+# Book ONE- Research From the start to the end
+
+## Book Cover
+![the big bang of data science banner.](/assets/research_s2e_cover.png)
 > [!TIP]
 > The first edition bireyselvalue is tested on several **problematic** datasets. What I mean by problematic is 
 a dataset with **extreme overlapping behaviors** across classes and has **insufficient** classification **accuracy** 

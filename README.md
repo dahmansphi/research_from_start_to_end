@@ -1,3 +1,5 @@
+> [!IMPORTANT] make sure to check the book [competitive advantages](#book-competitive-advantage) below. 
+
 ![the big bang of data science banner.](/assets/cover_page.jpg)
 # About the Project
 ## Author's Words
@@ -175,6 +177,15 @@ I don’t want to stick to that _abstract and direct_ definition from the academ
 
 This book is for anyone, regardless of the educational background, with the interest in building, creating and producing a professional product that has a vision of the future. You don’t have to have specific skill in any way, but extreme enthusiasm to learn how to make the right decision. So, it is meant for an audience of: (1) students, under or postgraduate. (2) scholars, (3) researchers, (4) scientists, (5) executives, (6) managers, (7) professionals, (8) or laypersons. 
 
+# Book competitive advantage
+
+> [!IMPORTANT] In this book you will find **a few outlines** that deliver competitive advantages.  
+
+> The first three units present an **abstract/academic** presentation of research, then in _chapter four_ you have a **concrete implementation** in the form of **lab-discussion**. Where the lab is a real-life project. So, you are going to implement what you have learnt in theory. 
+
+> In **chapter six**, you are going to learn one of **the most important skills** that many are unable to do, and that is **how to build a research instrument**. So, you are going to see the steps on creating your own research instrument _to measure the variables of the research features_. As an outcome, you will no longer have to rely on **copy-paste** surveys and similar tools to collect data for the project.  
+
+> The **last chapter** is lab-02, where you are going to see the final implementation of research from an _industrial perspective_. You will see how all the academic information you have learnt by then is going just to be right used on real-life project.  
 
 # Outlets
 

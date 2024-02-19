@@ -66,9 +66,10 @@ Great, so now we have this solution, logically speaking, in the form of a model 
 **``So, here I introduce the first edition of the Big Bang of Data Science. Which includes four books' elements as below:``**
 
 
-- [x] the input, 
-- [x] the process, 
-- [x] and the output.  
+- [x] Rsearch From the Start to the End, 
+- [x] Analysis From the Start to the End, 
+- [x] Prediction From the Start to the End,
+- [x] Code AI From the Start to the End,  
 
 ## WHAT IS THE COMPETITIVE ADVANTAGE?
 there is only one word can simply . 

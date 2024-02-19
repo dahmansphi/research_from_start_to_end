@@ -19,7 +19,7 @@ If you wish to contribute to the creator of this method and the author, you may 
 
 If you prefer any other way of contribution, please feel free to contact me directly. Thank you
 
-# The Big Bang of Data Science first edition at a glance
+# The Big Bang of Data Science -first edition- at a glance
 
 ## the four elements
 A **product**, as a simple definition, is _the outcome of some kind of input that has been processed and as a result 

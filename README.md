@@ -61,7 +61,7 @@ Here we go! But wait a second, it’s legitimate to think, this solution/product
 > [**Prediction mastery**], this is where the _future_ can be present in your solution/product. Prediction is telling you an educated guess about the future. It tells you based on your _past and present_, what is probole outcome of future. That means, your solution will have a new adjective added to it, that is **intelligent**, or smart solution/product.  
 
 So, now let’s conclude all what we have examined. (1) **RESEARCH from the start to the end**, (2) **ANALYSIS from the start to the end** (3) **PREDICTION from the start to the end**. Are the real blocks to outcome intelligent solution or product. 
-`and these are the first three elements of the Big Bang of Data Science, in the form of three books`
+**`and these are the first three elements of the Big Bang of Data Science, in the form of three books`**
 
 Great, so now we have this solution, logically speaking, in the form of a model or a framework and what we can do with it. Simply put, we can turn it into a form of a digital or physical product. For instance, we can create a GUI that the user interacts with or maybe a device that the user can use. Now, this is what the BIG BANG OF DATA SCIENCE IS ALL ABOUT.
 

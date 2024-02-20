@@ -193,3 +193,24 @@ you can have access to the recorded lessons of this book from these outlets:
 
 # The digital copy 
 you can have access to the ppt digital copy in pdf format from [digital ppt book](/assets/Research_S2E_Final.pdf) 
+
+# The Big Bang of Data Science- SECOND EDITION
+
+If you have made the decision to complete the first edition of **the Big Bang of Data Science**, then you may want to learn about its vision in the second Edition. _The second edition of the Big Bang of Data Science_ is going to cover **two** important areas of disciplines as follows:  
+## Embedding Systems- Software Engineering 
+As the first edition has made its focus to outcome a product of _past-present-future_, that is in form of a smart/intelligent model, we saw the fourth element was to turn that model into sort of a _GUI, desktop app_. However, in the second edition, the aim is **to embed that model into a device**, yet to make the device sound intelligent. So, we are going to focus on the skills that enable us to do so. Here are number of the outlines which will be at the center of attention: 
+
+1. C Programming Language  
+2. Basic Electronics 
+3. Working on microcontrollers Arduino 
+4. Working on industrial light weight microcontrollers, SMT32  
+
+## Quantum Computing  
+
+In the second focus, we are going to cover abstract and theoretical knowledge about **quantum computing**. The new phenomenon that everyone is talking about. Since the traditional computers framework is based on analog and digital forms of 1 and 0, quantum computing has a completely different framework. To this, if this frame excels soon, then _the entire industry will have this new framework_, which **will change** the way we write codes and interact with machines. I will be focusing on the abstract of it, since there are yet no available quantum machines in the market, but only available for R&D purposes. However, I will cover the outlines that make one able to master the work if it is released anytime soon on the market.  
+
+1. Mathemetics- Probability theory 
+2. Physics 
+3. Computer Science 
+4. Molecular Physics 
+5. Chemistry 

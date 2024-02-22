@@ -6,10 +6,8 @@
 # About the First Book- Research From the Start to the End
 
 > [!IMPORTANT]
-
-> You can have a video presentation on this book on [Research From the Start to the End-Introduction](https://www.youtube.com/channel/UCTy7s6Bvt3OQbHXKBmGi4Hg)
-
-> you can have a video snabb on the all the chapters' contents on [Research From the Start to the End-snabb](https://www.youtube.com/channel/UCTy7s6Bvt3OQbHXKBmGi4Hg)
+> 1. You can have a video presentation on this book on [Research From the Start to the End-Introduction](https://www.youtube.com/channel/UCTy7s6Bvt3OQbHXKBmGi4Hg) 
+2. you can have a video snabb on the all the chapters' contents on [Research From the Start to the End-snabb](https://www.youtube.com/channel/UCTy7s6Bvt3OQbHXKBmGi4Hg)
 
 
 ## Author's Words

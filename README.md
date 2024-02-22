@@ -5,6 +5,11 @@
 
 # About the First Book- Research From the Start to the End
 
+> [!IMPORTANT]
+> You can have a video presentation on this book on [Research From the Start to the End-Introduction](https://www.youtube.com/channel/UCTy7s6Bvt3OQbHXKBmGi4Hg)
+> you can have a video snabb on the all the chapters' contents on [Research From the Start to the End-snabb](https://www.youtube.com/channel/UCTy7s6Bvt3OQbHXKBmGi4Hg)
+
+
 ## Author's Words
 Welcome to **Research From the Start to the End** official documentation, the first book from [The Big Bang of Datat Science](https://github.com/dahmansphi/big_bang_of_data_science_project). I am Dr. Deniz Dahman 
 the creator of the **BireyselValue algorithm** and the author of this digital book. In the following section you  

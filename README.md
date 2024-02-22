@@ -30,7 +30,7 @@ If you prefer any other way of contribution, please feel free to contact me dire
 ## Book Cover
 ![the research cover book.](/assets/research_s2e_cover.png)
 > [!TIP]
-> You can have full access to the material of this book from the outlet section below. Thank you.
+> You can have full access to the material of this book from the [outlet](#outlets) section below. Thank you.
 
 ## The Content
 

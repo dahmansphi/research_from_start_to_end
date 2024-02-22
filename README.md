@@ -3,11 +3,16 @@
 
 ![the big bang of data science banner.](/assets/cover_page.jpg)
 
+> [!NOTE]
+> 1. To view the *project video introduction* please visit [Main Introduction to The Big Bang of Data Science- First Edition](https://youtu.be/0weCBnNO7tk).
+> 2. To view the *project documentation* please visit [The Big Bang of Data Science Project](https://github.com/dahmansphi/big_bang_of_data_science_project)
+
+
 # About the First Book- Research From the Start to the End
 
 > [!IMPORTANT]
-> 1. You can have a video presentation on this book on [Research From the Start to the End-Introduction](https://www.youtube.com/channel/UCTy7s6Bvt3OQbHXKBmGi4Hg) 
-> 2. you can have a video snabb on the all the chapters' contents on [Research From the Start to the End-snabb](https://www.youtube.com/channel/UCTy7s6Bvt3OQbHXKBmGi4Hg)
+> 1. You can have a video presentation on this book on [Research from The Start to The End- Chapters Review](https://youtu.be/7y0pIOrLaV8) 
+> 2. you can have a video screencast on the all the chapters' contents on [Screencasts from Research from the Start to The End Chapters- Book One](https://youtu.be/BYytWg9ZRdM)
 
 
 ## Author's Words

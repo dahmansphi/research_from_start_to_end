@@ -6,7 +6,7 @@
 # About the First Book- Research From the Start to the End
 
 ## Author's Words
-Welcome to **Research From the Start to the End** official documentation, the first book from [The Big Bang of Datat Science](https://github.com/dahmansphi/big_bang_of_data_science_project?tab=readme-ov-file#what-is-the-competitive-advantage). I am Dr. Deniz Dahman 
+Welcome to **Research From the Start to the End** official documentation, the first book from [The Big Bang of Datat Science](https://github.com/dahmansphi/big_bang_of_data_science_project). I am Dr. Deniz Dahman 
 the creator of the **BireyselValue algorithm** and the author of this digital book. In the following section you  
 will have a brief introduction on the main contents of this book.  
 In addition, a reference to available outlets where you may have access to the entire recorded lessons.  

@@ -28,7 +28,8 @@ To this end if you wish to contribute in any way to this work, please find furth
 ## Contributing 
 
 If you wish to contribute to the creator of this method and the author, you may want to check possible ways on: 
-To Contribute in any way possible, thank you, you can check :
+
+> `To Contribute in any way possible, thank you, you can check` :
 
 1. view options to subscribe on [Dahman's Phi Services Website](https://dahmansphi.com/subscriptions/)
 2. subscribe to this channel [Dahman's Phi Services](https://www.youtube.com/@dahmansphi)     

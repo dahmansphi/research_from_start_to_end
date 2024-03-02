@@ -146,7 +146,8 @@ The first three units present an **abstract/academic** presentation of research,
 # Outlets
 
 you can have access to the recorded lessons of this book from these outlets:
-1. [outlet_1](). 
+1. [outlet_1 + Discount](https://dahmansphi.com/research-s2e/). 
+2. [outlet_2](https://www.udemy.com/course/research-s2e/)
 
 # The digital copy 
 you can have access to the ppt digital copy in pdf format from [digital ppt book](/assets/Research_S2E_Final.pdf) 

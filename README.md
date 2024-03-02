@@ -30,17 +30,14 @@ To this end if you wish to contribute in any way to this work, please find furth
 If you wish to contribute to the creator of this method and the author, you may want to check possible ways on: 
 To Contribute in any way possible, thank you, you can check :
 
-1. https://dahmansphi.com/subscriptions/
-2. subscribe to this channel    
+1. view options to subscribe on [Dahman's Phi Services Website](https://dahmansphi.com/subscriptions/)
+2. subscribe to this channel [Dahman's Phi Services](https://www.youtube.com/@dahmansphi)     
+3. you can support on [patreon](https://patreon.com/user?u=118924481) 
 
- / @dahmansphi  
-3. you can support on  https://www.patreon.com/user?u=118924481
 
-[patreon](https://patreon.com/user?u=118924481) 
+If you prefer *any other way of contribution*, please feel free to contact me directly on [contact](https://dahmansphi.com/contact/). 
 
-[YouTube](https://www.youtube.com/@dahmansphi) 
-
-If you prefer any other way of contribution, please feel free to contact me directly. Thank you
+*Thank you*
 
 
 # Book ONE- Research From the start to the end

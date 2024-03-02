@@ -11,8 +11,9 @@
 # About the First Book- Research From the Start to the End
 
 > [!IMPORTANT]
-> 1. You can have a video presentation on this book on [Research from The Start to The End- Chapters Review](https://youtu.be/7y0pIOrLaV8) 
-> 2. you can have a video screencast on the all the chapters' contents on [Screencasts from Research from the Start to The End Chapters- Book One](https://youtu.be/BYytWg9ZRdM)
+> 1. you can have an author introduction on this book on [Welcome, by the author, to the First Book- Research from the Start to The End](https://youtu.be/00cIN-tMPuA) 
+> 2. You can have a video presentation on this book on [Research from The Start to The End- Chapters Review](https://youtu.be/7y0pIOrLaV8)
+> 3. you can have a video screencast on the all the chapters' contents on [Screencasts from Research from the Start to The End Chapters- Book One](https://youtu.be/BYytWg9ZRdM)
 
 
 ## Author's Words
@@ -27,6 +28,13 @@ To this end if you wish to contribute in any way to this work, please find furth
 ## Contributing 
 
 If you wish to contribute to the creator of this method and the author, you may want to check possible ways on: 
+To Contribute in any way possible, thank you, you can check :
+
+1. https://dahmansphi.com/subscriptions/
+2. subscribe to this channel    
+
+ / @dahmansphi  
+3. you can support on  https://www.patreon.com/user?u=118924481
 
 [patreon](https://patreon.com/user?u=118924481) 
 

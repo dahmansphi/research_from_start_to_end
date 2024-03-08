@@ -17,13 +17,7 @@
 
 
 ## Author's Words
-Welcome to **Research From the Start to the End** official documentation, the first book from [The Big Bang of Datat Science](https://github.com/dahmansphi/big_bang_of_data_science_project). I am Dr. Deniz Dahman 
-the creator of the [BireyselValue algorithm](https://github.com/dahmansphi/bireyselvalue_v1/tree/main) and the author of this digital book. In the following section you  
-will have a brief introduction on the main contents of this book.  
-In addition, a reference to available [outlets](#outlets) where you may have access to the entire recorded lessons.  
-Before going ahead, I would like to let you know that I have done this project as an independent scientist without any fund or similar capacity.  
-I am dedicated to proceeding and seek further improvement of the content of this material.  
-To this end if you wish to contribute in any way to this work, please find further details in the contributing section.  
+Welcome to **Research From the Start to the End** official documentation, the first book from [The Big Bang of Datat Science](https://github.com/dahmansphi/big_bang_of_data_science_project). I am Dr. Deniz Dahman  the creator of the [BireyselValue algorithm](https://github.com/dahmansphi/bireyselvalue_v1/tree/main) and the author of this digital book. In the following section you will have a brief introduction on the main contents of this book.In addition, a reference to available [outlets](#outlets) where you may have access to the entire recorded lessons. Before going ahead, I would like to let you know that I have done this project as an independent scientist without any fund or similar capacity. I am dedicated to proceeding and seek further improvement of the content of this material.To this end if you wish to contribute in any way to this work, please find further details in the contributing section.  
   
 ## Contributing 
 
